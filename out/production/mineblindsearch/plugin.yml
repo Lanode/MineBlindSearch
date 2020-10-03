@@ -1,0 +1,5 @@
+name: MineBlindSearch
+version: 0.0.1
+author: Lanode
+main: tk.augmeneco.mineblindsearch.MineBlindSearch
+api-version: 1.12.2

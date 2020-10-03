@@ -1,0 +1,5 @@
+#!/bin/sh
+cp out/artifacts/MineBlindSearch_jar/MineBlindSearch.jar test_server/plugins/MineBlindSearch.jar
+mcrcon -p qwerty reload
+sleep 3
+exit

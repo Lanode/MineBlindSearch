@@ -1,0 +1,13 @@
+name: MineBlindSearch
+version: 0.0.1
+author: Lanode
+main: tk.augmeneco.MineBlindSearch.Main
+api-version: 1.12.2
+
+load: STARTUP
+
+commands:
+  ob:
+    description: Observation control
+    usage: /ob help
+    permission: mineblindsearch.observationadmin
